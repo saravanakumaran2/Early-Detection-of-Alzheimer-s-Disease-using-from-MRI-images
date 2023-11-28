@@ -1,1 +1,1 @@
-# Early-Detection-of-Alzheimer-s-Disease-using-machine-learning-
+# Early-Detection-of-Alzheimer-s-Disease-from-MRI-images
